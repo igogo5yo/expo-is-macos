@@ -15,7 +15,7 @@ public class ExpoIsMacOSModule: Module {
     Function("isMacOS") {
         #if targetEnvironment(macCatalyst)
             return true
-        # else
+        #else
             return false
         #endif
     }
