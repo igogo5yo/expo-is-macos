@@ -1,6 +1,6 @@
 {
   "name": "expo-is-macos",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Helps an expo (iOS) app detect if it was installed and run on MacOS (arm Chip)",
   "main": "build/index.js",
   "types": "build/index.d.ts",
